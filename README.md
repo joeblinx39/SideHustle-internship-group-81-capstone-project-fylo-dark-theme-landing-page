@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design](design\desktop-design.jpg)
-![Desktop Preview](design\desktop-preview.jpg)
-![Mobile design](design\mobile-design.jpg)
+![Desktop design](desktop-design.jpg)
+![Desktop Preview](desktop-preview.jpg)
+![Mobile design](mobile-design.jpg)
 
 ## link
 [solution](https://sidehustle-capstone-fylo.netlify.app/)
