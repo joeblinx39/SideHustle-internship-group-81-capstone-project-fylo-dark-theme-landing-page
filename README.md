@@ -26,7 +26,7 @@ Users should be able to:
 ![Mobile design](mobile-design.jpg)
 
 ## link
-[![solution](https://sidehustle-capstone-fylo.netlify.app/)
+- ![Solution-Link](https://sidehustle-capstone-fylo.netlify.app/)
 
 ### Built with
 
