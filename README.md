@@ -1,4 +1,4 @@
-# Frontend Mentor - Fylo dark theme landing page solution
+# Side hustle internship - Fylo dark theme landing page solution
 [![Netlify Status](https://api.netlify.com/api/v1/badges/436599cc-7336-4350-9ca0-d2fe51e7347c/deploy-status)](https://app.netlify.com/sites/sidehustle-group-81-capstone-fylo-landing-page/deploys)
 This is a solution to the Sidehustle Internship v.5 Capstone challenge. Sidehustle Internship challenges help you improve your coding skills by building realistic projects. 
 
