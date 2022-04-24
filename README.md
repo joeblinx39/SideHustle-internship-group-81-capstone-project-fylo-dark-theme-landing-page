@@ -24,7 +24,7 @@ Users should be able to:
 ![Desktop design](desktop-design.jpg)
 
 ## link
-Click here[Sidehustle-Capstone-Project](https://sidehustle-capstone-fylo.netlify.app/) to view the project Solution.
+Click here [Sidehustle-Capstone-Project](https://sidehustle-capstone-fylo.netlify.app/) to view the project Solution.
 
 ### Built with
 
