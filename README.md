@@ -22,8 +22,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop design](desktop-design.jpg)
-![Desktop Preview](desktop-preview.jpg)
-![Mobile design](mobile-design.jpg)
 
 ## link
 Click here[Sidehustle-Capstone-Project](https://sidehustle-capstone-fylo.netlify.app/) to view the project Solution.
